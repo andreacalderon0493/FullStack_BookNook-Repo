@@ -6,7 +6,7 @@ namespace FullStackAuth_WebAPI.DataTransferObjects
 		public int Id { get; set;}
 		public string Text { get; set; }
 		public double Rating { get; set; }
-        public string UserName { get; set; }
+        public UserForDisplayDto User { get; set; }
     }
 }
 
