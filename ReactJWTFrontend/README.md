@@ -1,1 +1,0 @@
-# ReactJWTFrontend_Starter
